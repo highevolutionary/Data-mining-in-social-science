@@ -1,0 +1,46 @@
+﻿complaint_type,selected_share,strategy,flagged_share
+HEAT/HOT WATER,0.20665889452749966,random_priority,0.1
+Noise - Residential,0.20484158551639006,random_priority,0.1
+Street Condition,0.19959539157865863,random_priority,0.1
+UNSANITARY CONDITION,0.1831710327801399,random_priority,0.1
+Traffic Signal Condition,0.1157934439720203,random_priority,0.1
+Street Light Condition,0.08993965162529145,random_priority,0.1
+UNSANITARY CONDITION,1.0,slow_type_priority,0.1
+UNSANITARY CONDITION,1.0,risk_priority,0.1
+UNSANITARY CONDITION,1.0,optimal_efficiency,0.1
+UNSANITARY CONDITION,1.0,constrained_fair_optimal,0.1
+HEAT/HOT WATER,0.2053352534759725,random_priority,0.2
+Noise - Residential,0.20470092063981896,random_priority,0.2
+Street Condition,0.19882048380736855,random_priority,0.2
+UNSANITARY CONDITION,0.18282500985787514,random_priority,0.2
+Traffic Signal Condition,0.11894597884414271,random_priority,0.2
+Street Light Condition,0.08937235337482213,random_priority,0.2
+UNSANITARY CONDITION,0.9100961785732654,slow_type_priority,0.2
+HEAT/HOT WATER,0.08990382142673456,slow_type_priority,0.2
+UNSANITARY CONDITION,0.9100961785732654,risk_priority,0.2
+Street Light Condition,0.054758353477686914,risk_priority,0.2
+Street Condition,0.035145467949047646,risk_priority,0.2
+UNSANITARY CONDITION,0.9100961785732654,optimal_efficiency,0.2
+Street Condition,0.06331327470040632,optimal_efficiency,0.2
+Street Light Condition,0.02659054672632824,optimal_efficiency,0.2
+UNSANITARY CONDITION,0.9100961785732654,constrained_fair_optimal,0.2
+Street Condition,0.0594558452913645,constrained_fair_optimal,0.2
+Street Light Condition,0.030447976135370057,constrained_fair_optimal,0.2
+Noise - Residential,0.20553825897326877,random_priority,0.25
+HEAT/HOT WATER,0.20505822166751245,random_priority,0.25
+Street Condition,0.19903718231816872,random_priority,0.25
+UNSANITARY CONDITION,0.1826061911097091,random_priority,0.25
+Traffic Signal Condition,0.11900810577279149,random_priority,0.25
+Street Light Condition,0.08875204015854947,random_priority,0.25
+UNSANITARY CONDITION,0.7280794393164268,slow_type_priority,0.25
+HEAT/HOT WATER,0.2719205606835731,slow_type_priority,0.25
+UNSANITARY CONDITION,0.7280794393164268,risk_priority,0.25
+Street Light Condition,0.14244764164529358,risk_priority,0.25
+Street Condition,0.12947291903827954,risk_priority,0.25
+UNSANITARY CONDITION,0.7280794393164268,optimal_efficiency,0.25
+Street Condition,0.18115236384084707,optimal_efficiency,0.25
+Street Light Condition,0.09076819684272606,optimal_efficiency,0.25
+UNSANITARY CONDITION,0.7280794393164268,constrained_fair_optimal,0.25
+Street Condition,0.14733030681241513,constrained_fair_optimal,0.25
+Street Light Condition,0.0816337726817627,constrained_fair_optimal,0.25
+HEAT/HOT WATER,0.04295648118939529,constrained_fair_optimal,0.25

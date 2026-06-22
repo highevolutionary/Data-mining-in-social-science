@@ -1,0 +1,7 @@
+﻿model,feature,coef
+mechanism_logistic,agency_borough_week_volume,0.0922043159048885
+mechanism_logistic,median_income,-0.04267014416541989
+mechanism_logistic,poverty_rate,-0.004134308953742104
+mechanism_logistic,renter_rate,-0.01924507800386622
+mechanism_logistic,hpd_violations,-0.03555017596944379
+mechanism_logistic,hpd_class_c_share,-0.014506397947933755

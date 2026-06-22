@@ -1,0 +1,18 @@
+# Raw data and generated heavy intermediate files
+data/
+outputs/
+
+# Local dependency/install leftovers
+.tmp_*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local editor/system files
+.DS_Store
+Thumbs.db
+
+# Local utility files from earlier workspace tasks
+move_codex_to_d.cmd
+move_codex_to_d.ps1
+manual_main_source.tex

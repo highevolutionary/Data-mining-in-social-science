@@ -1,0 +1,2 @@
+﻿model,outcome,coef_log_workload_std_pp,n_cells,weighted_rmse_pp,note
+zip_month_type_fixed_effects,zip_month_type_slow_rate,0.8404340443882274,3757,8.97500523148623,"Weighted panel FE association; controls ZIP, month and complaint-type fixed effects, not a causal design."

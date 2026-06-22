@@ -1,0 +1,5 @@
+﻿estimand,treated,outcome,estimate_pp,note
+raw_difference,agency_borough_week_volume_top_quartile,slow_response_top_quartile,-10.930812734791594,Unadjusted difference; descriptive only.
+regression_standardization,agency_borough_week_volume_top_quartile,slow_response_top_quartile,-1.9340678033173493,"Adjusted for complaint type, borough, time and ZIP-level ACS/HPD proxies."
+ipw,agency_borough_week_volume_top_quartile,slow_response_top_quartile,-16.136960221693343,Observational propensity-weighted sensitivity estimate.
+aipw,agency_borough_week_volume_top_quartile,slow_response_top_quartile,-0.8907904687597517,Doubly robust observational sensitivity estimate; not randomized causal proof.
